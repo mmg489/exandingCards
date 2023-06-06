@@ -4,6 +4,18 @@
     box-sizing: border-box;
 }
 
+header{
+        font-family: 'Monomaniac One', sans-serif;
+        display:flex;
+        align-items: center;
+        justify-content: center;
+        height: 10vh;
+        overflow:hidden;
+        margin:0; 
+        background-color: crimson;
+        color:rgb(128, 210, 245);
+}
+
 body{
     font-family: 'Monomaniac One', sans-serif;
     display:flex;
