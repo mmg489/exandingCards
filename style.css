@@ -12,12 +12,13 @@ body{
     height: 100vh;
     overflow:hidden;
     margin:0; 
+    background-color: black;
+    color:white;
 }
 
 .container{
     display:flex;
     width: 90vw;
-    color:goldenrod;
 
 }
 
@@ -27,7 +28,7 @@ body{
     background-repeat: no-repeat;
     height:80vh;
     border-radius: 50px;
-    color:antiquewhite;
+    color:rgb(128, 210, 245);
     cursor:pointer;
     flex:0.5;
     margin: 10px;
